@@ -15,39 +15,65 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    heimuer: {
-        api: 'https://json.heimuer.xyz',
-        name: '黑木耳',
-        detail: 'https://heimuer.tv'
+    th: {
+        api: 'https://thzy1.me',
+        name: '桃花',
     },
-    ffzy: {
-        api: 'http://ffzy5.tv',
-        name: '非凡影视',
-        detail: 'http://ffzy5.tv'
+    nxx: {
+        api: 'https://naixxzy.com',
+        name: '香香',
     },
-    tyyszy: {
-        api: 'https://tyyszy.com',
-        name: '天涯资源',
+    fh: {
+        api: 'http://fhapi9.com',
+        name: '帆号',
     },
-    ckzy: {
-        api: 'https://www.ckzy1.com',
-        name: 'CK资源',
+    lb: {
+        api: 'https://lbapi9.com',
+        name: '乐播',
     },
-    zy360: {
-        api: 'https://360zy.com',
-        name: '360资源',
+    soav: {
+        api: 'https://api.souavzy.vip',
+        name: '搜爱维',
     },
-    wolong: {
-        api: 'https://wolongzyw.com',
-        name: '卧龙资源',
+    155: {
+        api: 'https://155api.com',
+        name: '155',
     },
-    cjhw: {
-        api: 'https://cjhwba.com',
-        name: '新华为',
+    sl: {
+        api: 'https://slapibf.com',
+        name: '森林',
     },
-    dbzy: {
-        api: 'https://dbzy.com',
-        name: '豆瓣资源',
+    fq: {
+        api: 'https://fqzy.me',
+        name: '番茄',
+    },
+    sw: {
+        api: 'https://siwazyw.tv',
+        name: '四娃',
+    },
+    dd: {
+        api: 'https://api.ddapi.cc',
+        name: '滴滴',
+    },
+    yt: {
+        api: 'https://apiyutu.com',
+        name: '玉兔',
+    },
+    sy: {
+        api: 'https://shayuapi.com',
+        name: '鲨鱼',
+    },
+    lj: {
+        api: 'https://apilj.com',
+        name: '辣椒',
+    },
+    hg: {
+        api: 'https://www.avre06.com',
+        name: '黄瓜',
+    },
+    lsb: {
+        api: 'https://apilsbzy1.com',
+        name: 'lsb',
     }
 };
 
