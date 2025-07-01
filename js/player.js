@@ -1127,7 +1127,7 @@ function saveToHistory() {
     const videoInfo = {
         title: currentVideoTitle,
         directVideoUrl: currentVideoUrl, // Current episode's direct URL
-        url: `player.html?url=${encodeURIComponent(currentVideoUrl)}&title=${encodeURIComponent(currentVideoTitle)}&source=${encodeURIComponent(sourceName)}&source_code=${encodeURIComponent(sourceCode)}&id=${encodeURIComponent(id_from_params || '')}&index=${currentEpisodeIndex}&position=${Math.floor(currentPosition || 0)}`,
+        url: `player.html?url=http://noad.xdzx.cloudns.biz/m3u8filter/${encodeURIComponent(currentVideoUrl)}&title=${encodeURIComponent(currentVideoTitle)}&source=${encodeURIComponent(sourceName)}&source_code=${encodeURIComponent(sourceCode)}&id=${encodeURIComponent(id_from_params || '')}&index=${currentEpisodeIndex}&position=${Math.floor(currentPosition || 0)}`,
         episodeIndex: currentEpisodeIndex,
         sourceName: sourceName,
         vod_id: id_from_params || '', // Store the ID from params as vod_id in history item
