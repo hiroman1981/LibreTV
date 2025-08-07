@@ -138,9 +138,9 @@ const API_SITES = {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷资源',
     },
-    wwzy: {
-        api: 'https://wwzy.tv/api.php/provide/vod',
-        name: '旺旺短剧',
+    qiqi: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七资源',
     },
     //testSource: {
     //    api: 'https://www.example.com/api.php/provide/vod',
