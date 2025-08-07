@@ -88,59 +88,59 @@ const API_SITES = {
     },
     zuid: {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
-        name: '最大资源'
+        name: '最大资源',
     },
     yinghua: {
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
-        name: '樱花资源'
+        name: '樱花资源',
     },
     baidu: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
-        name: '百度云资源'
+        name: '百度云资源',
     },
     wujin: {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
-        name: '无尽资源'
+        name: '无尽资源',
     },
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod',
-        name: '量子资源站'
+        name: '量子资源站',
     },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
-        name: 'iKun资源'
+        name: 'iKun资源',
     },
     huya: {
         api: 'https://www.huyaapi.com/api.php/provide/vod',
-        name: '虎牙资源'
+        name: '虎牙资源',
     },
     sony: {
         api: 'https://suoniapi.com/api.php/provide/vod',
-        name: '索尼资源'
+        name: '索尼资源',
     },
     haohua: {
         api: 'https://hhzyapi.com/api.php/provide/vod',
-        name: '豪华资源'
+        name: '豪华资源',
     },
     niuniu: {
         api: 'https://api.niuniuzy.me/api.php/provide/vod',
-        name: '牛牛资源'
+        name: '牛牛资源',
     },
     xinlang: {
         api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
-        name: '新浪资源'
+        name: '新浪资源',
     },
     subo: {
         api: 'https://subocaiji.com/api.php/provide/vod',
-        name: '速播资源'
+        name: '速播资源',
     },
     ukzy: {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
-        name: 'U酷资源'
+        name: 'U酷资源',
     },
     wwzy: {
         api: 'https://wwzy.tv/api.php/provide/vod',
-        name: '旺旺短剧'
+        name: '旺旺短剧',
     },
     //testSource: {
     //    api: 'https://www.example.com/api.php/provide/vod',
@@ -157,7 +157,7 @@ const API_SITES = {
     // 我们提供此警告，是希望您能认清这些内容的本质——它们是压迫和奴役的工具，而非娱乐。
     lebo: {
         api: 'https://lbapi9.com/api.php/provide/vod',
-        name: '乐播资源'
+        name: '乐播资源',
         adult: true
     },
     danaizi: {
@@ -274,7 +274,7 @@ const API_SITES = {
         api: 'https://hsckzy888.com/api.php/provide/vod/at/json',
         name: '黄色仓库',
         adult: true,
-        detail: 'https://hsckzy.com'
+        detail: 'https://hsckzy.com',
     },
 
     // 下面是资源失效率高的API源，不建议使用
