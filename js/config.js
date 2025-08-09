@@ -102,10 +102,6 @@ const API_SITES = {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
         name: '无尽资源',
     },
-    lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod',
-        name: '量子资源站',
-    },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源',
@@ -117,10 +113,6 @@ const API_SITES = {
     niuniu: {
         api: 'https://api.niuniuzy.me/api.php/provide/vod',
         name: '牛牛资源',
-    },
-    subo: {
-        api: 'https://subocaiji.com/api.php/provide/vod',
-        name: '速播资源',
     },
     ukzy: {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
@@ -265,8 +257,20 @@ const API_SITES = {
         detail: 'https://hsckzy.com',
     },
 
-    // 下面是资源无法准确搜索的API源，不建议使用
+    // 下面是资源无法播放的API源，不建议使用
 
+    //subo: {
+    //    api: 'https://subocaiji.com/api.php/provide/vod',
+    //    name: '速播资源',
+    //},
+    //lzi: {
+    //    api: 'https://cj.lziapi.com/api.php/provide/vod',
+    //    name: '量子资源站',
+    //},
+
+    
+    // 下面是资源无法准确搜索的API源，不建议使用
+    
     //haohua: {
     //   api: 'https://hhzyapi.com/api.php/provide/vod',
     //    name: '豪华资源',
