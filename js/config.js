@@ -267,18 +267,18 @@ const API_SITES = {
 
     // 下面是资源无法准确搜索的API源，不建议使用
 
-    haohua: {
-        api: 'https://hhzyapi.com/api.php/provide/vod',
-        name: '豪华资源',
-    },
-    huya: {
-        api: 'https://www.huyaapi.com/api.php/provide/vod',
-        name: '虎牙资源',
-    },
-    xinlang: {
-        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
-        name: '新浪资源',
-    },
+    //haohua: {
+    //   api: 'https://hhzyapi.com/api.php/provide/vod',
+    //    name: '豪华资源',
+    //},
+    //huya: {
+    //    api: 'https://www.huyaapi.com/api.php/provide/vod',
+    //    name: '虎牙资源',
+    //},
+    //xinlang: {
+    //    api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+    //    name: '新浪资源',
+    //},
 
 };
 
