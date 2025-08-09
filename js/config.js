@@ -110,25 +110,13 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源',
     },
-    huya: {
-        api: 'https://www.huyaapi.com/api.php/provide/vod',
-        name: '虎牙资源',
-    },
     sony: {
         api: 'https://suoniapi.com/api.php/provide/vod',
         name: '索尼资源',
     },
-    haohua: {
-        api: 'https://hhzyapi.com/api.php/provide/vod',
-        name: '豪华资源',
-    },
     niuniu: {
         api: 'https://api.niuniuzy.me/api.php/provide/vod',
         name: '牛牛资源',
-    },
-    xinlang: {
-        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
-        name: '新浪资源',
     },
     subo: {
         api: 'https://subocaiji.com/api.php/provide/vod',
@@ -277,8 +265,20 @@ const API_SITES = {
         detail: 'https://hsckzy.com',
     },
 
-    // 下面是资源失效率高的API源，不建议使用
+    // 下面是资源无法准确搜索的API源，不建议使用
 
+    haohua: {
+        api: 'https://hhzyapi.com/api.php/provide/vod',
+        name: '豪华资源',
+    },
+    huya: {
+        api: 'https://www.huyaapi.com/api.php/provide/vod',
+        name: '虎牙资源',
+    },
+    xinlang: {
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+        name: '新浪资源',
+    },
 
 };
 
