@@ -22,6 +22,10 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
+    ruyi: {
+        api: 'https://cj.rycjapi.com/api.php/provide/vod',
+        name: '如意资源',
+    },
     mozhua: {
         api: 'https://mozhuazy.com/api.php/provide/vod',
         name: '魔爪资源',
@@ -38,10 +42,6 @@ const API_SITES = {
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
-    },
-    ruyi: {
-        api: 'https://cj.rycjapi.com/api.php/provide/vod',
-        name: '如意资源',
     },
     xiaomaomi: {
         api: 'https://zy.xmm.hk/api.php/provide/vod',
