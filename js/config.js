@@ -250,6 +250,11 @@ const API_SITES = {
         name: 'CK资源',
         adult: true
     },
+    sex8: {
+        api: 'https://xingba222.com/api.php/provide/vod',
+        name: '杏吧资源',
+        adult: true
+    },
     huangcang: {
         api: 'https://hsckzy888.com/api.php/provide/vod/at/json',
         name: '黄色仓库',
